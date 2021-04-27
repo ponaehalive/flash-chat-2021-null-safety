@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607695679700",
+    "project_id": "flash-chat-24684",
+    "storage_bucket": "flash-chat-24684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607695679700:android:3de33000180f23fdc6cb41",
+        "android_client_info": {
+          "package_name": "co.ponaehali.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607695679700-oi96qck370nnumvts4quglu6l84dd9mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNBLpCB5amaZkqyYnP2G-VBq6XQ6MnJ6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607695679700-oi96qck370nnumvts4quglu6l84dd9mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
